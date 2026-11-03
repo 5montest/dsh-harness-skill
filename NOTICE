@@ -1,0 +1,23 @@
+NOTICE
+======
+
+This repository is an independent distillation of the operating behavior of
+DeepSeek Harness (DSH), published by DeepSeek at
+https://github.com/deepseek-ai/deepseek-harness.
+
+It is not an official DeepSeek repository, is not affiliated with, sponsored
+by, or endorsed by DeepSeek, and does not redistribute DeepSeek Harness code.
+
+The prose in this repository is original analysis and synthesis based on:
+- the public product documentation and repository of DeepSeek Harness,
+- the behavior observable in the installed DSH application (its package
+  documentation, tool contracts, and model-facing prompt structure), and
+- the conventions of the Agent Skills ecosystem (Claude Code, Codex).
+
+Short quoted fragments from DSH's model-facing text appear, if at all, only
+for attribution and commentary. The long-form operational guidance here was
+written from scratch and intentionally paraphrases rather than reproduces
+proprietary prompt content.
+
+"DeepSeek" and "DeepSeek Harness" are trademarks of their respective owner.
+Use of these names is descriptive and does not imply endorsement.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek Harness Doctrine"
+  short_description: "Operating discipline for long agent sessions"
+  default_prompt: "Use $dsh-harness to plan, execute, and verify this multi-step task with a lean context budget."

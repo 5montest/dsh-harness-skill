@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "dsh-harness",
+  "version": "0.1.0",
+  "description": "Operating doctrine distilled from DeepSeek Harness for long, multi-step coding work: planning, context budget, delegation, sandboxed tool use, and verification.",
+  "author": {
+    "name": "5montest",
+    "url": "https://github.com/5montest"
+  },
+  "homepage": "https://github.com/5montest/dsh-harness-skill",
+  "repository": "https://github.com/5montest/dsh-harness-skill",
+  "license": "MIT",
+  "skills": ["./"]
+}
